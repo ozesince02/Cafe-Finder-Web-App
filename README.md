@@ -15,7 +15,7 @@ You need to have Python and pip installed on your system.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/cafe-finder.git
+   git clone https://github.com/ozesince02/Cafe-Finder-Web-App.git
    ```
 
 2. Navigate to the project directory:
